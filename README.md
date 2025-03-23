@@ -1,4 +1,4 @@
-# phishing_detector
+# phishing_detector for emails
 
 This project is a Fake Phishing Email Detector that connects to an email inbox using IMAP and scans unread emails for phishing indicators. 
 It checks for common phishing keywords like "verify your account" or "urgent action required."
